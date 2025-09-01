@@ -1,0 +1,1 @@
+deleteData("Class_03",Student);
